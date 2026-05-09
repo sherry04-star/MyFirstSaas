@@ -1,0 +1,48 @@
+{
+  "node": {
+    "257e1d04a2a3bc050ff82f748f695e050ccd9f33": {
+      "workers": {
+        "app/(dashboard)/products/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/orders/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/overview/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/products/page": "action-browser",
+        "app/(dashboard)/orders/page": "action-browser",
+        "app/(dashboard)/customers/page": "action-browser",
+        "app/(dashboard)/overview/page": "action-browser"
+      }
+    },
+    "82b2910081e567f0a9577df3e6ccbefd726401b1": {
+      "workers": {
+        "app/(dashboard)/products/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/orders/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/overview/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/products/page": "action-browser",
+        "app/(dashboard)/orders/page": "action-browser",
+        "app/(dashboard)/customers/page": "action-browser",
+        "app/(dashboard)/overview/page": "action-browser"
+      }
+    },
+    "cbacf07750c96f1f74b5a924abde98acdd6910f5": {
+      "workers": {
+        "app/(dashboard)/products/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/orders/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/overview/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CAllFilesFolders%5C%5CShaheer%5C%5CMyFirstSaas%5C%5Capp%5C%5C(auth)%5C%5Cactions.ts%22%2C%5B%22signup%22%2C%22signOut%22%2C%22login%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/products/page": "action-browser",
+        "app/(dashboard)/orders/page": "action-browser",
+        "app/(dashboard)/customers/page": "action-browser",
+        "app/(dashboard)/overview/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "egxSY5zCe++3Q+ocsDAvs2NXps8qnhbwg0dOEB6DkSw="
+}
